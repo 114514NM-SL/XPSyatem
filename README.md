@@ -7,5 +7,5 @@ SCP SL XPSyatem Plugin| Exiled plugin
 杀了人类阵营加10分
 回合结束所有人加10分
 # 安装
-将xpsyatem.dll复制到%appdata%\EXILED
+将xpsyatem.dll复制到%appdata%\EXILED\plugins
 重启服务器
